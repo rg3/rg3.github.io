@@ -1,6 +1,6 @@
 {
-    "latest": "2020.09.20",
-    "signature": "1b5013fd3e68c31d81de4d02517cd4bba79b98b640a0834d4a3068318087314aaa8910bf059f8856c02b2dbbf99a1d93bd614721e004c16acf3dfa2ec13bd36498dcdf89e18b501d368d3e4c5cbd29b7ff17f623cede15c22d19c6e689377e366953c6769c98418f5062eaec945e1ac89b7f493ea5771eb7ae9bef8ba2a6f759",
+    "latest": "2020.11.19",
+    "signature": "27682ada86153f6c86d2e2c232dfb34078e0c233f34e1f470adf8023c4d9c65c5b3ace94c69e724424130bdc21eba33d0c5106682678991613ad9a1e56c55fd08ff8eceaa6a92fa185a5f7cb5f2309e256228523d334d1b2d114963c49a1e0b786d919dfbb71cef0026e3ba73bd32e447af4045bda15d07f3c52f07b58107465",
     "versions": {
         "2012.02.22": {
             "bin": [
@@ -13138,6 +13138,90 @@
             "tar": [
                 "https://yt-dl.org/downloads/2020.09.20/youtube-dl-2020.09.20.tar.gz",
                 "ac1a799cf968345bf29089ed2e5c5d4f4a32031625d808369e61b6362d1c7cde"
+            ]
+        },
+        "2020.11.01": {
+            "bin": [
+                "https://yt-dl.org/downloads/2020.11.01/youtube-dl",
+                "3320ec8438dce181e70fa2ab291cc90530edcdf9c1030b9e00237693275bfb04"
+            ],
+            "exe": [
+                "https://yt-dl.org/downloads/2020.11.01/youtube-dl.exe",
+                "10a40a81e0b00944e30b7f9a3244db0b641fced66dafa1fd06153c5126877753"
+            ],
+            "tar": [
+                "https://yt-dl.org/downloads/2020.11.01/youtube-dl-2020.11.01.tar.gz",
+                "d42c209163a0a1043c20f88567cb728a789e24eb5c1f57efb265b04b588ced02"
+            ]
+        },
+        "2020.11.01.1": {
+            "bin": [
+                "https://yt-dl.org/downloads/2020.11.01.1/youtube-dl",
+                "4ad7795a1308c927575b5dc4c4e00eeabb54b3312e2fa889098caee8bf849712"
+            ],
+            "exe": [
+                "https://yt-dl.org/downloads/2020.11.01.1/youtube-dl.exe",
+                "0f7b9dcb45bd9afcbc8585e9743ea6b23ed3091e1f9f9692a2da44d85302878d"
+            ],
+            "tar": [
+                "https://yt-dl.org/downloads/2020.11.01.1/youtube-dl-2020.11.01.1.tar.gz",
+                "7a62187bc9f91af42eb5c9c95652e350170a72dbbdac8c7d71a6aeb4885a901a"
+            ]
+        },
+        "2020.11.12": {
+            "bin": [
+                "https://yt-dl.org/downloads/2020.11.12/youtube-dl",
+                "2ff45142a9907ab359d1d20ec7e141adba6b1ed3a56181ecf6c2a279e7db1c55"
+            ],
+            "exe": [
+                "https://yt-dl.org/downloads/2020.11.12/youtube-dl.exe",
+                "97a8c9ac735911a722b5405861ede8a66b02635f00664c5199bd01fd3b67114f"
+            ],
+            "tar": [
+                "https://yt-dl.org/downloads/2020.11.12/youtube-dl-2020.11.12.tar.gz",
+                "aeb00b2079c4711de7eea2a91f6923ebade84c5e985b0caeb47d572395d42831"
+            ]
+        },
+        "2020.11.17": {
+            "bin": [
+                "https://yt-dl.org/downloads/2020.11.17/youtube-dl",
+                "ba88da2bed4291290228db28d820f95fd07a84eb960544c81c7afaa61cc24267"
+            ],
+            "exe": [
+                "https://yt-dl.org/downloads/2020.11.17/youtube-dl.exe",
+                "45ff80ee69d76071cfe05576e603a708b2ec4d88481fd24914ae4fb3d3cf9e94"
+            ],
+            "tar": [
+                "https://yt-dl.org/downloads/2020.11.17/youtube-dl-2020.11.17.tar.gz",
+                "62854617c40c700db4d5f5a49fceb4642c0b3cfdd55769cc0c568a6a77d51b2c"
+            ]
+        },
+        "2020.11.18": {
+            "bin": [
+                "https://yt-dl.org/downloads/2020.11.18/youtube-dl",
+                "2258f73b776684e8748b497b404294a3e8b3f4ef89d0dd0ddf7fe3995dc0b1b4"
+            ],
+            "exe": [
+                "https://yt-dl.org/downloads/2020.11.18/youtube-dl.exe",
+                "65301cc985f1be708b5a431f990a9eaa50dc0d232991f9ef0ec7cd4c01d661cd"
+            ],
+            "tar": [
+                "https://yt-dl.org/downloads/2020.11.18/youtube-dl-2020.11.18.tar.gz",
+                "6dbbc339520df3634c57678756dcd81c9dc6f95af91f2032b33d5c2ef0f3fedf"
+            ]
+        },
+        "2020.11.19": {
+            "bin": [
+                "https://yt-dl.org/downloads/2020.11.19/youtube-dl",
+                "affb72a48f4e662abf557c18cee3462096723a41d9770f11d1c4d149f717d429"
+            ],
+            "exe": [
+                "https://yt-dl.org/downloads/2020.11.19/youtube-dl.exe",
+                "e6d10dd90dd8e66705af9baec1762992d298ba09fcdc0b0ef9241410b66a1b25"
+            ],
+            "tar": [
+                "https://yt-dl.org/downloads/2020.11.19/youtube-dl-2020.11.19.tar.gz",
+                "f8c14d9eb2fd8fe7242de8b96f2c918810867c518a162405644f483dcd14be9e"
             ]
         }
     }
